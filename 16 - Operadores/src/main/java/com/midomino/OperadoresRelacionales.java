@@ -3,6 +3,7 @@ package com.midomino;
 public class OperadoresRelacionales {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		/*
 		 * CLASE 19: OPERADORES RELACIONALES
 		 * COMPARAR EL CONTENIDO DE UNA VARIABLE CON OTRA.
@@ -36,6 +37,27 @@ public class OperadoresRelacionales {
 		//>= -> COMPARAR SI UNA VARIABLE ES MAYOR O IGUAL QUE OTRA.
 //		resultado = a >= b;
 //		System.out.println("resultado de la operación relacional: " + resultado);	
+=======
+		// CLASE 19: OPERADORES RELACIONALES
+		
+		//== -> IGUALDAD
+		System.out.println("2 == 2: " + (2 == 2) );
+		
+		//!= -> DESIGUALDAD
+		System.out.println("2 != 3: " + (2 != 3) );
+
+		//< -> MENOR QUE
+		System.out.println("6 < 5: " + (6 < 5) );
+		
+		//> -< MAYOR QUE
+		System.out.println("6 > 5: " + (6 > 5) );
+		
+		//<= -> MENOR O IGUAL QUE
+		System.out.println("6 <= 5: " + (6 <= 5) );
+		
+		//>= -> MAYOR O IGUAL QUE
+		System.out.println("4 >= 5: " + (4 >= 5) );
+>>>>>>> 8c43cccdd1c1a1c321e507b6b67ad3b532b03f45
 		
 	}
 
